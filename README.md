@@ -3,5 +3,6 @@
 
 ***
 
-
+<p align="center">
 ![hi](https://media.giphy.com/media/PLHXDVAtmigIXZEOGa/giphy.gif)
+</p>
