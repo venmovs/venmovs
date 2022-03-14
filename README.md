@@ -9,7 +9,7 @@
 
 <h2 align="left">GitHub Stats:</h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=venmovs&theme=nord&)](https://github.com/venmovs/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=venmovs&theme=nord&hide=Total Start Earned)](https://github.com/venmovs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venmovs&theme=nord&layout=compact)](https://github.com/venmovs/github-readme-stats)
 
 
