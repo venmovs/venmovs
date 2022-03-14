@@ -9,8 +9,8 @@
 
 <h2 align="left">GitHub Stats:</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venmovs)](https://github.com/venmovs/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venmovs)](https://github.com/venmovs/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venmovs&theme=nord)](https://github.com/venmovs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venmovs&theme=nord)](https://github.com/venmovs/github-readme-stats)
 
 
 <h2 align="left">Skills:</h2>
