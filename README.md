@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I`m frontend developer
+# I`m frontend developer
 
 <p align="center">
   <img src="https://media.giphy.com/media/PLHXDVAtmigIXZEOGa/giphy.gif" />
