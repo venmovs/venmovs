@@ -9,14 +9,7 @@
 
 <h2 align="left">GitHub Stats:</h2>
 
-<p align="center">
-  <a href="https://github.com/venmovs/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venmovs&repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/venmovs/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venmovs&repo=convoychat" />
-  </a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venmovs)](https://github.com/venmovs/github-readme-stats)
 
 
 <h2 align="left">Skills:</h2>
