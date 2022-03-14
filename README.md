@@ -1,5 +1,7 @@
 # Hi there 👋
 
+https://github-profile-trophy.vercel.app/?venmovs=ryo-ma&theme=dark_lover
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/PLHXDVAtmigIXZEOGa/giphy.gif" />
