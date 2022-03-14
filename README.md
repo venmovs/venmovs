@@ -2,7 +2,9 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 </h2> 
 
+
 `https://github-readme-codewars-stats.herokuapp.com/api/?username=Venmovs&badge&colormode=bright_mode`
+ 
  ![](./svg/badgeBrightMode.svg)
 
 <h2 align="left">GitHub Stats:</h2>
