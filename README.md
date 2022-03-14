@@ -21,5 +21,8 @@
 
 <h2 align="left">Let's get connected:</h2>
 
-<p align="left"> <a href="https://t.me/venmovs" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://t.me/venmovs" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="40" height="40"/> </a>
+  <a href="https://instagram.com/venmovs" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="instagram" width="40" height="40"/> </a>
+</p>
 
