@@ -3,9 +3,8 @@
 </h2> 
 
 
-`https://github-readme-codewars-stats.herokuapp.com/api/?username=Venmovs&badge&colormode=bright_mode`
- 
- ![](./svg/badgeBrightMode.svg)
+[![codewars](https://www.codewars.com/users/venmovs/badges/large)](https://www.codewars.com/users/venmovs)   
+
 
 <h2 align="left">GitHub Stats:</h2>
 
