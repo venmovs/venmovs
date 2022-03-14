@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=venmovs&rank=S,A,AA,AAA,B,C&theme=buddhism&margin-w=15)](https://github.com/venmovs/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=venmovs&rank=S,A,AA,AAA,B,C&theme=buddhism&margin-w=15&align=center)](https://github.com/venmovs/github-profile-trophy)
 
 <p align="center">
   <img src="https://media.giphy.com/media/PLHXDVAtmigIXZEOGa/giphy.gif" />
