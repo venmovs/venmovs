@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=venmovs&rank=S,A,AA,AAA)](https://github.com/venmovs/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=venmovs&rank=S,A,AA,AAA,B,C)](https://github.com/venmovs/github-profile-trophy)
 
 
 <p align="center">
