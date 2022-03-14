@@ -2,10 +2,9 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 </h2> 
 
+<h2 align="left">Codewars Stats:</h2>
 
 [![codewars](https://www.codewars.com/users/Venmovs/badges/large)](https://www.codewars.com/users/Venmovs)
-[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=venmovs)](https://github.com/venmovs/leetcode-stats)
-
 
 
 <h2 align="left">GitHub Stats:</h2>
