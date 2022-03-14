@@ -3,7 +3,9 @@
 </h2> 
 
 
-[![codewars](https://www.codewars.com/users/Venmovs/badges/large)](https://www.codewars.com/users/Venmovs)   
+[![codewars](https://www.codewars.com/users/Venmovs/badges/large)](https://www.codewars.com/users/Venmovs)
+[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=venmovs)](https://github.com/venmovs/leetcode-stats)
+
 
 
 <h2 align="left">GitHub Stats:</h2>
