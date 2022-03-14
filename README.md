@@ -3,7 +3,7 @@
 </h2> 
 
 
-[![codewars](https://www.codewars.com/users/venmovs/badges/large)](https://www.codewars.com/users/venmovs)   
+[![codewars](https://www.codewars.com/users/Venmovs/badges/large)](https://www.codewars.com/users/Venmovs)   
 
 
 <h2 align="left">GitHub Stats:</h2>
