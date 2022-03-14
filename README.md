@@ -1,9 +1,8 @@
 # Hi there 👋
 
 
-<p align="center">
- [![trophy](https://github-profile-trophy.vercel.app/?username=venmovs&rank=S,A,AA,AAA,B,C&theme=buddhism)](https://github.com/venmovs/github-profile-trophy)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=venmovs&rank=S,A,AA,AAA,B,C&theme=buddhism)](https://github.com/venmovs/github-profile-trophy)
+
 
 
 <p align="center">
