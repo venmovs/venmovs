@@ -1,11 +1,15 @@
 
-### Vigen Movsisyan | Frontend Developer
+# Vigen Movsisyan | Frontend Developer
 
-### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+## Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
 ### Codewars Stats:
 
 [![codewars](https://www.codewars.com/users/Venmovs/badges/large)](https://www.codewars.com/users/Venmovs)
+
+### LeetCode Stats:
+
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=venmovs&theme=nord)](https://leetcode.com/JacobLinCool)
 
 ### GitHub Stats:
 
