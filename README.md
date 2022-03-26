@@ -7,7 +7,7 @@
 
 [![codewars](https://www.codewars.com/users/Venmovs/badges/large)](https://www.codewars.com/users/Venmovs)
 
-### LeetCode Stats:
+### Leetcode Stats:
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=venmovs&theme=nord)](https://leetcode.com/JacobLinCool)
 
