@@ -7,7 +7,7 @@
 
 ### Leetcode Stats:
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=venmovs&theme=nord)](https://leetcode.com/JacobLinCool)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=venmovs&theme=nord)](https://leetcode.com/venmovs)
 
 ### GitHub Stats:
 
